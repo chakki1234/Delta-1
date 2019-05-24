@@ -1,2 +1,2 @@
 # delta-task-1
-The first from Delta
+The first task from Delta
