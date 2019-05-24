@@ -1,14 +1,7 @@
 body{
-	/*background-image: url(https://dyet20dn14z30.cloudfront.net/actions/nmcImages/image/generateImage?height=800&width=1920&c=9&path=https://ffecomassets.s3.amazonaws.com/171012-ff-ashvlle-3625.jpg);
-    */
+	
 	background-image: linear-gradient(to right, rgba(252,232,55,0.5), rgba(141,244,87,0.5));
 }
-
-/*#bgimg{
-	background-image: url(https://dyet20dn14z30.cloudfront.net/actions/nmcImages/image/generateImage?height=800&width=1920&c=9&path=https://ffecomassets.s3.amazonaws.com/171012-ff-ashvlle-3625.jpg);
-   background-size: cover;
-   
-}   */
 
 #contmn{
 	position: absolute;
@@ -197,5 +190,6 @@ ul{
 		font-size: 1rem;
 	}
 }
+
 
 
