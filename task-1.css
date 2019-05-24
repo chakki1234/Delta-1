@@ -1,0 +1,201 @@
+body{
+	/*background-image: url(https://dyet20dn14z30.cloudfront.net/actions/nmcImages/image/generateImage?height=800&width=1920&c=9&path=https://ffecomassets.s3.amazonaws.com/171012-ff-ashvlle-3625.jpg);
+    */
+	background-image: linear-gradient(to right, rgba(252,232,55,0.5), rgba(141,244,87,0.5));
+}
+
+/*#bgimg{
+	background-image: url(https://dyet20dn14z30.cloudfront.net/actions/nmcImages/image/generateImage?height=800&width=1920&c=9&path=https://ffecomassets.s3.amazonaws.com/171012-ff-ashvlle-3625.jpg);
+   background-size: cover;
+   
+}   */
+
+#contmn{
+	position: absolute;
+	left: 10%;
+	top:15%;
+	width: 20%;
+    height: 550px;
+    border : 3px solid #232323; 
+    background-color: #ccffff;
+    /*margin-left: 10%;
+    margin-top: 6%;*/
+    font-family: 'Bangers', cursive;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+
+}
+
+#heading{
+	font-size: 2rem;
+}
+
+#age{
+	/*margin-top: 20%;
+	float: left;
+	margin-left: 14%;*/
+	background-color: #d1e0e0;
+	border: 2px solid #232323;
+	font-family: 'Bangers', cursive;
+	font-size: 1rem;
+	position: relative;
+	left: 5%;
+}
+#agetxt{
+/*	margin-top: 20%;*/
+    font-size: 1.5rem;
+	float: left;
+
+}
+
+#weight{
+	/*margin-top: 8%;
+	float: left;
+	margin-left:4%;*/
+	background-color: #d1e0e0;
+	border: 2px solid #232323;
+	font-family: 'Bangers', cursive;
+	font-size: 1rem;
+
+}
+
+#weighttxt{
+	float: left;
+/*	margin-top: 8%;*/
+	font-size: 1.5rem;
+/*	display: block;*/
+
+
+}
+
+
+
+#heighttxt{
+	font-size: 1.5rem;
+
+	float: left;
+	/*margin-top: 8%;*/
+	
+
+}
+
+#height{
+    /*margin-top: 8%;*/
+	/*float: left;*/
+	/*margin-left:5%;*/
+	background-color: #d1e0e0;
+	border: 2px solid #232323;
+	font-family: 'Bangers', cursive;
+	font-size: 1rem;
+}
+
+#click{
+	margin-top: 4%;
+
+}
+.table{
+	position:absolute;
+	border: 3px solid #232323;
+    width: 45%;
+    left: 40%;
+    top: 15%;
+    padding-left: 2%;
+    padding-top: 0%;
+    background-color:#ccffff;
+    font-family: 'Bangers', cursive;
+	font-size: 1rem;
+ }
+
+.list1{
+	margin:3%;
+}
+ li{
+ 	margin:4%;
+ }
+
+ i{
+ 	position: relative;
+ 	left: 1%;
+ 	top: 5px;
+ }
+
+.table2{
+	position:absolute;
+    width: 30%;
+    left: 55%;
+    top: 15.5%;
+    font-family: 'Bangers', cursive;
+	font-size: 1rem;
+ }
+
+ul{
+	  list-style-type:none;
+
+}
+
+.table3{
+
+	position:absolute;
+    width: 30%;
+    left: 65%;
+    top: 15.5%;
+    font-family: 'Bangers', cursive;
+	font-size: 1rem;
+}
+
+.table4{
+
+	position:absolute;
+    width: 30%;
+    left: 73%;
+    top: 15.5%;
+    font-family: 'Bangers', cursive;
+	font-size: 1rem;
+}
+#del{
+	margin:1%;
+}
+
+#addfood{
+	font-size: 1.5rem;
+}
+#addcarbs{
+	font-size: 1.5rem;
+}
+#addfat{
+	font-size: 1.5rem;
+}
+#addcalorie{
+	font-size: 1.5rem;
+}
+
+@media (max-width: 1105px)
+{
+	#weighttxt{
+		font-size: 1rem;
+	}
+	#agetxt{
+		font-size: 1rem;
+
+	}
+	#heighttxt{
+		font-size: 1rem;
+	}
+	#addfood{
+		font-size: 1rem;
+	}
+	#addcarbs{
+		font-size: 1rem;
+
+	}
+	#addfat{
+		font-size: 1rem;
+	}
+	#addcalorie{
+		font-size: 1rem;
+	}
+}
+
+
