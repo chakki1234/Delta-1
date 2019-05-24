@@ -80,27 +80,29 @@ listno1=listno1-1;
 }
 });
 
-console.log(25+"25");
 
-age.addEventListener("keydown", function(event)
+
+age.addEventListener("keyup", function(event)
 {   
-	if(event.which===13)
+	/*if(event.which===13)*/
 		ageval=this.value;
-	
+       
 	
 });
 
-weight.addEventListener("keydown", function(event)
+weight.addEventListener("keyup", function(event)
 {   
-	if(event.which===13)
+	/*if(event.which===13)*/
 		weightval=this.value;
+		
 
 });
 
-height.addEventListener("keydown", function(event)
+height.addEventListener("keyup", function(event)
 {   
-	if(event.which===13)
+	/*if(event.which===13)*/
 		heightval=this.value;
+	
 
 });
 
